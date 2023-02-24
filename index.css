@@ -1,0 +1,20 @@
+/* element selector */
+div{
+    color: red;
+    background-color: blue;
+    font-size: 30px;
+}
+/* id selector */
+#user{
+    font-size: 50px;
+    color: green;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+/* class selector */
+.rav{
+    color: yellow;
+    background-color: aquamarine;
+    font-size: 60px;
+}
